@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Sharif",
+      "email": "s@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 2
+    },
+  ],
+  "restaurants": [
+    {
+      "name": "test",
+      "contact": "01888",
+      "address": "Florida",
+      "id": 1
+    }
+  ]
+}
